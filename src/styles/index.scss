@@ -1,0 +1,26 @@
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+.content-container{
+  margin: 30px 50px 50px 50px;
+}
+
+.title{
+  font-size: 30px;
+}
+
+.subtitle{
+  font-size: 17px;
+}
+
+.content{
+  font-size: 15px;
+}
+
+.meta{
+  font-size: 13px;
+}
